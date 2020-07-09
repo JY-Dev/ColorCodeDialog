@@ -1,2 +1,3 @@
+include ':ColorCodeDialog'
 rootProject.name='ColorDialog'
 include ':app'
