@@ -3,7 +3,7 @@ You can get the code value of the color you want. In Android studio
 
 ### Library Version
 
-Version v1.0.1
+Version v1.0.2
 
 ### minSdkVersion
 
