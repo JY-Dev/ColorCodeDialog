@@ -34,7 +34,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
                     android:textStyle="bold"
-                    android:text="색상값"
+                    android:text="Color Code"
                     android:textSize="18dp" />
 
                 <TextView
@@ -50,7 +50,7 @@
 
         <View
             android:layout_width="match_parent"
-            android:layout_height="2dp"
+            android:layout_height="1dp"
             android:background="#000000"/>
 
         <LinearLayout
