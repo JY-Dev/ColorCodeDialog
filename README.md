@@ -58,4 +58,4 @@ ColorDialog(this,{ red,green,blue,colorCode ->
 
 
 ## In application
-![](https://github.com/JY-Dev/CertainColorTextView/blob/master/sampleImg.jpg)
+![](https://github.com/JY-Dev/ColorCodeDialog/blob/master/sampleImg.jpg)
