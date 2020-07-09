@@ -39,7 +39,7 @@ Edit `app/build.gradle` like below.
 ColorDialog(Context,Callback(RedValue : Int,GreenValue :Int, BlueValue:Int, ColorCode:String),InputRedValue:Int,InputGreenValue:Int,InputBlueValue:Int)
 Context : Your Activity Context
 Callback : It's Dialog Return Callback. Callback provided RGB ColorCode to Int(RedValue,GreenValue,BlueValue) and String(ColorCode) 
-InputInitColor : InputRedValue:Int,InputGreenValue:Int,InputBlueValue:Int
+Input Init Color : InputRedValue:Int,InputGreenValue:Int,InputBlueValue:Int
 ```
 
 #### To call the color code dialog
