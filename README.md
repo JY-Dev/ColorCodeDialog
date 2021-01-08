@@ -1,5 +1,5 @@
-# ColorCodeDialog
-You can get the code value of the color you want. In Android studio
+# ColorPicker
+You can get the code value of the color you want. In Android
 
 ### Library Version
 
